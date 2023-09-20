@@ -1,0 +1,22 @@
+{
+  "name": "simple-react-hooks",
+  "version": "1.0.0",
+  "description": "Simple react hooks to use in your projects.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h0rhay/simple-react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "h0rhay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h0rhay/simple-react-hooks/issues"
+  },
+  "homepage": "https://github.com/h0rhay/simple-react-hooks#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
+}
