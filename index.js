@@ -3,4 +3,4 @@ import { useFetch } from "./useFetch";
 import { useLocalStorage } from "./useLocalStorage";
 import { useMediaQuery } from "./useMediaQuery";
 
-export { useDebounce, useFetch, useLocalStorage, useMediaQuery};
+export default { useDebounce, useFetch, useLocalStorage, useMediaQuery };
