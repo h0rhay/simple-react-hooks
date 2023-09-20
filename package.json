@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/h0rhay/simple-react-hooks#readme",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/h0rhay"
   }
 }
+
