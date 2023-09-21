@@ -1,6 +1,6 @@
 {
   "name": "@h0rhay/simple-react-hooks",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Simple react hooks to use in your projects.",
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/h0rhay"
   },
-  "type": "module"
+  "type": "module",
+  "exports": "./index.js"
 }
 
