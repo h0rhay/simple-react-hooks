@@ -3,4 +3,4 @@
 // import useLocalStorage from "./useLocalStorage";
 // import useMediaQuery from './useMediaQuery.js';
 
-export { useMediaQuery } from './useMediaQuery';
+export { useMediaQuery } from './useMediaQuery.js';
