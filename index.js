@@ -1,6 +1,6 @@
 // import { useDebounce } from "./useDebounce";
 // import { useFetch } from "./useFetch";
 // import useLocalStorage from "./useLocalStorage";
-// import useMediaQuery from './useMediaQuery.js';
+import useMediaQuery from './useMediaQuery';
 
-export { useMediaQuery } from './useMediaQuery.js';
+export { useMediaQuery };
